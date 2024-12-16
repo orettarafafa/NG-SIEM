@@ -1,2 +1,2 @@
-# NG-SIEM_Dashboards
-NG-SIEMのDashboard集です。
+# NG-SIEM
+NG-SIEMのParserやDashboard、SOARワークフローなどです。
